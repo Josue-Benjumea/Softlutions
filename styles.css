@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0px;
 }
@@ -9,4 +10,18 @@
 }
 .imglogo{
     width: 10rem;
+=======
+.que-ofrecemos{
+    background-color:#171717 ;
+
+}
+.ofrecemos-tittle{
+    color: #fff;
+
+}
+.ofrecemos-text{
+    color: #fff;
+   
+
+>>>>>>> 3028970cf0ad4af3bae7d141e7b2f56fe6329b2c
 }
