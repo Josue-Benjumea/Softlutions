@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+}
+
+.navbar{
+    background-color: #171717 !important; 
+    color: #ffffff !important;
+
+}
+.imglogo{
+    width: 10rem;
+}
