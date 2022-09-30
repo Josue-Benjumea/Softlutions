@@ -1,0 +1,15 @@
+
+    .banner{
+    
+    background:#181818;
+    display: flex;
+    justify-content: center;
+}
+.box1{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+    color:white;
+    
+    
+}
